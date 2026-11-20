@@ -1,24 +1,24 @@
-# Module 5: Assembly, testing and packaging
+# Module 6: Future directions
 
-# 5.1 Goals 
-- Review the typical assembly, testing and packaging (ATP) pipelines and technologies in the semiconductor
-- Examine common ATP challenges in thermal, mechanical, electrical and environmental aspects
-- Analyse case studies of innovative ATP techniques and possible new business models 
+## Useful links
 
-# Useful Links 
-- https://imaps.org/page/Education
-- **https://pages.hmc.edu/harris/cmosvlsi/4e/index.html**
-- https://resources.altium.com/p/wire-bonding-modern-applications-technology-trends-and-cost-considerations
-- https://news.skhynix.com/en/semiconductor-back-end-process-episode-1-understanding-semiconductor-testing/
-- https://www.azonano.com/article.aspx?ArticleID=6702
-- https://pubs.acs.org/aanmf6/article/4/7/6903/391380/Transfer-Learning-Based-Artificial-Intelligence
-- https://www.synopsys.com/blogs/chip-design/multi-die-chip-design-samsung-foundry.html
-- https://eandt.theiet.org/2025/10/14/biodegradable-circuit-boards-look-meet-specs-next-gen-wireless-electronics
-- https://www.lookdigitalsignage.com/blog/what-is-system-on-chip#how-digital-cms-works-with-soc-displays
-- https://resources.pcb.cadence.com/blog/2023-chiplet-vs-monolithic-superior-semiconductor-integration
-- https://semiengineering.com/true-3d-is-much-tougher-than-2-5d/
-- https://semiengineering.com/an-osat-perspective-on-semiconductor-market-trends/
-- www.semi.org/sites/semi.org/files/2022-11/06%20LeeChoon_JCET.pdf
-- https://www.tsmc.com/english/news-events/blog-article-20220615
-- https://www.synopsys.com/solutions/memory/dtco.html#overview
-- https://news.skhynix.com/en/light-thin-short-and-small-the-development-of-semiconductor-packages/
+## Project 
+- https://www.science.org/doi/10.1126/science.add2713
+- https://learning.oreilly.com/library/view/wide-bandgap-semiconductors/9783527346714/c18.xhtml#head-2-129
+- https://ieeexplore.ieee.org/document/10906729
+- https://gtr.ukri.org/projects?ref=EP%2FT019085%2F1
+- https://www.npl.co.uk/case-studies/metrology-for-wide-bandgap-semiconductors
+- https://lnkd.in/p/e8-KzYXR
+- https://www.npl.co.uk/research/semiconductor-metrology
+- https://www.sciencedirect.com/book/edited-volume/9780081020944/wide-bandgap-power-semiconductor-packaging
+- https://ieeexplore.ieee.org/abstract/document/11649861
+- https://www.imaps.org.uk/2026/08/18/rewire-early-career-researchers-open-call-for-proposals-for-power-semiconductor-innovation/
+- https://www.swansea.ac.uk/staff/saptarsi.ghosh/
+- https://doi.org/10.1088/1361-6528/ae0941
+- https://doi.org/10.1038/s41928-024-01307-9
+- https://doi.org/10.1063/5.0225275
+- https://doi.org/10.1016/j.jallcom.2023.172454
+- https://eps.ieee.org/technology/global-chips-act-resources/
+- https://semiconductors.ieee.org/
+- https://digital-strategy.ec.europa.eu/en/policies/chips-act-2
+- https://www.klover.ai/tsmc-uses-ai-agents-10-ways-to-use-ai-in-depth-analysis-2025/
